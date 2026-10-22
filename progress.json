@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:24:37.568Z",
+  "generated_at": "2026-10-22T13:28:12.232Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -137,6 +137,19 @@
       "last_pushed_at": "2026-10-22T13:24:25.333Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-10-22T13:28:00.147Z",
+      "last_pushed_at": "2026-10-22T13:28:00.147Z",
+      "language": "python",
+      "lines": 3
     }
   }
 }
